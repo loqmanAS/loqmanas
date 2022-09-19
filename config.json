@@ -1,7 +1,7 @@
 {
-	"ip":"A9server2.aternos.me",
-	"port": 16559,
-	"name": "A0bot",
+	"ip":"A9server.aternos.me",
+	"port": 53120,
+	"name": "a9bot24h",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register 12345 12345",
